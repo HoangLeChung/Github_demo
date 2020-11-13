@@ -1,2 +1,2 @@
 print("Hoang Le Chung")
-print (" dep trai")
+print (" dep trai\t va hoc gioi")
